@@ -10,6 +10,8 @@ Cela permet de faire ensuite **un calcul des similarités cosinus** par un produ
 `sims[i] ` correspond au score de similarité cosinus entre query et la phrase `i` . Ce score est un nombre flottant dans l'intervalle réel $[-1,+1]$.
 1 signifie que les vecteurs ont la même direction, 0 signifie qu'ils sont orthogonaux et -1 signifie qu'ils sont opposés.
 
+## Méthodes basées sur TF-IDF
+
 
 ## Sources
 
